@@ -1,0 +1,2 @@
+# Customer-Service-Request-Analysis
+Perform a service request data analysis of New York City 311 calls. In this project we will focus on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types. We will be using statistical method such as ANOVA and chi-square test to perform: Whether the average response time across complaint types is similar or not (overall) Are the type of complaint or service requested and location related?Domain: Customer Service
